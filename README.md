@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/b-yash2909/leetcode-journal/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0238-product-of-array-except-self](https://github.com/b-yash2909/leetcode-journal/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/b-yash2909/leetcode-journal/tree/master/0347-top-k-frequent-elements) |
+| [0877-stone-game](https://github.com/b-yash2909/leetcode-journal/tree/master/0877-stone-game) |
 ## Two Pointers
 |  |
 | ------- |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/b-yash2909/leetcode-journal/tree/master/0042-trapping-rain-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/b-yash2909/leetcode-journal/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0877-stone-game](https://github.com/b-yash2909/leetcode-journal/tree/master/0877-stone-game) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -116,4 +118,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/b-yash2909/leetcode-journal/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/b-yash2909/leetcode-journal/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/b-yash2909/leetcode-journal/tree/master/0567-permutation-in-string) |
+## Math
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/b-yash2909/leetcode-journal/tree/master/0877-stone-game) |
+## Minimax
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/b-yash2909/leetcode-journal/tree/master/0877-stone-game) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/b-yash2909/leetcode-journal/tree/master/0877-stone-game) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/b-yash2909/leetcode-journal/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
