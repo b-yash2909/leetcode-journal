@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/b-yash2909/leetcode-journal/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/b-yash2909/leetcode-journal/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/b-yash2909/leetcode-journal/tree/master/0567-permutation-in-string) |
+| [3731-find-missing-elements](https://github.com/b-yash2909/leetcode-journal/tree/master/3731-find-missing-elements) |
 ## String
 |  |
 | ------- |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/b-yash2909/leetcode-journal/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/b-yash2909/leetcode-journal/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/b-yash2909/leetcode-journal/tree/master/0347-top-k-frequent-elements) |
+| [3731-find-missing-elements](https://github.com/b-yash2909/leetcode-journal/tree/master/3731-find-missing-elements) |
 ## Array
 |  |
 | ------- |
@@ -49,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/b-yash2909/leetcode-journal/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/b-yash2909/leetcode-journal/tree/master/0347-top-k-frequent-elements) |
 | [0877-stone-game](https://github.com/b-yash2909/leetcode-journal/tree/master/0877-stone-game) |
+| [3731-find-missing-elements](https://github.com/b-yash2909/leetcode-journal/tree/master/3731-find-missing-elements) |
 ## Two Pointers
 |  |
 | ------- |
